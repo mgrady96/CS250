@@ -1,1 +1,10 @@
 # CS250
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**<br />
+When working on a product for a client, is extremely important to ensure the users' needs and requests are met and implemented. In order to ensure this happens, you can make sure to have communication with the Product Owner or Product Manager. Having open communication with the product team allows for clarifying questions to be asked about what features need to look like, about the priority of things, client timeline ideas, and more. User Stories are also a wonderful tool and often times provide most of the information needed to successfully create the program. User Stories include details of what is wanted, use cases, and sometimes images or mock ups. Creating User Stories is important because it provides an easy reference for those working on the product or feature. <br/>
+<br />
+**How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**<br />
+The way that I approach developing programs is by first looking at what the user requirements are and checking for user stories written about the program or feature. I then make sure to ask any clarifying questions needed to begin my work. There are several agile processes that I hope to continue integrating into my work, such as going through the planning phase, giving updates to whoever may need them, ensuring that thorough testing is done in a variety of ways (unit tests, manual testing, etc.), and maintaining my code so that everything stays up to date and secure. <br />
+<br />
+**What does it mean to be a good team member in software development?**<br />
+Being a good team members means taking accountability for your work, helping others when possible, keeping communication open, and working ethically. Sometimes things may happen and you may have delays in your part of the project. However, being a good team member and having that open communication allows for the team to get through delays or challenges together. <br />
+<br />
